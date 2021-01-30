@@ -29,3 +29,6 @@ ________________________________________________
 Get elements class or tag name with any css property.
 
 Online test yjs.js : http://kodmakinesi.rf.gd/yjs/
+
+CDN : <script src="http://kodmakinesi.rf.gd/yjs/yjs.js"></script>
+CDN : http://kodmakinesi.rf.gd/yjs/yjs.js
