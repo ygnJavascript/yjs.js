@@ -72,3 +72,13 @@ function al(x="",y=""){
 	}
 }
 }
+
+function yeni(x="",y=""){
+    if(y==""){
+        document.body.innerHTML += x;
+    }else{
+        for(var i=0;i<y.length;i++){
+            y[i].innerHTML += x;
+        }
+    }
+}
